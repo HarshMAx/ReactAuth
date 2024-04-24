@@ -1,0 +1,45 @@
+label{
+    width: 150px;
+    display: inline-block;
+    margin: 4px;
+}
+
+.form-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.middle{
+    border: 1px solid black;   
+    line-height: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+    color: azure;
+    border-radius: 13px;font-size: larger;
+    margin-left: 50px;
+}
+
+input{
+    height: 30px;
+    font-size: large;
+    border-radius: 13px;
+}
+
